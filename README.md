@@ -10,7 +10,7 @@ An Expense Tracker web application built with Django, enabling users to easily a
 
 ## Screenshots
 **Home Page**
-images/home.png
+![Home Page](images/home.png)
 
 **Visualizations**
 images/chart.png
