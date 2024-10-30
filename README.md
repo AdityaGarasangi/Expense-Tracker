@@ -36,7 +36,7 @@ cd expense-tracker
 
 ```bash
 python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
+source expense_tracker_env/bin/activate  # On Windows use `expense_tracker_env\Scripts\activate`
 ```
 
 3. Install Dependencies:
