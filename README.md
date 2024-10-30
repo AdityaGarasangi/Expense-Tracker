@@ -27,38 +27,38 @@ images/edit.png
 
 1. **Clone the Repository**:
 
-bash
+```bash
 git clone https://github.com/AdityaGarasangi/expense-tracker.git
 cd expense-tracker
-
+```
 
 2. **Create a Virtual Environment**:
 
-bash
+```bash
 python -m venv env
 source env/bin/activate  # On Windows use `env\Scripts\activate`
-
+```
 
 3. Install Dependencies:
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 4. Run Migrations:
 
-bash
+```bash
 python manage.py migrate
-
+```
 
 5. Start the Development Server:
 
-bash
+```bash
 python manage.py runserver
-
+```
 
 6. Access the Application: Open your web browser and go to 
-http://127.0.0.1:8000/
+``` http://127.0.0.1:8000/ ```
 
 
 
